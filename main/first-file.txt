@@ -1,5 +1,3 @@
 init master
 line added by bob
 line added by alice
-
-line added by mistake by alice
