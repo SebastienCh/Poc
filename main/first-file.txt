@@ -3,3 +3,5 @@ line added by bob
 line added by alice
 
 line added by mistake
+
+line added by bob on top of error
